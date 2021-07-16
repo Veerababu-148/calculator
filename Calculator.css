@@ -1,0 +1,56 @@
+.main{
+    border: 2px solid forestgreen;
+    width: 350px;
+    margin: 0px auto;
+
+
+}
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+}
+button{
+    width: 100%;
+    background-color:ghostwhite;
+    color: black;
+    height: 70px;
+    font-size: 30px;
+}
+input{
+    height: 80px;
+    width: 92%;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: 700;
+
+
+}
+.h1{
+  color:#ab0fed;
+}
+.vb{
+    background-color: #27f53c;
+}
+.clear{
+    background-color: indianred;
+}
+.color{
+    background-color: #1aa3d2;
+}
+.color2{
+    background-color: #c782f4;
+}
+.color3{
+    background-color: #de8222;
+}
+.color4{
+    background-color: #b1e9f3;
+}
+.color5{
+    background-color: #c5d243;
+}
